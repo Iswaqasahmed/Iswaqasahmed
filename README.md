@@ -1,68 +1,88 @@
+<h1 align="center">Hi there, I'm Waqas Ahmed — aka <a href="https://iswaqasahmed.surge.sh/" target="_blank">Viki</a> 👋</h1>
 
-### Hi there, I'm Waqas Ahmed - aka [ Viki ] [IsWaqasAhmed](http://iswaqasahmed.surge.sh/)👋
----
----
-## Developer, Partitioner & CS Student!!.
----
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything ❤️
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read and write.
----
----
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<p align="center">
+🚀 Developer | 💻 CS Student | 💡 Lifelong Learner | 🌐 Tech Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://iswaqasahmed.surge.sh/"><img src="https://img.shields.io/badge/Portfolio-iswaqasahmed.surge.sh-blue?style=for-the-badge&logo=internetexplorer"></a>
+  <a href="https://linkedin.com/in/waqas-ahmed-1a8b24162/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://twitter.com/amwaqasahmed"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+  <a href="https://instagram.com/amwaqasahmed"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>
 
 ---
----
-### Connect with me:
 
-[<img align="left" alt="Suppose to be image here | Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Suppose to be image here | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Suppose to be image here | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Suppose to be image here | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Suppose to be image here | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 👨‍💻 About Me
 
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-
-
-<br />
-<br />
+- 🎓 Computer Science Student | Software Developer
+- 🚀 Currently learning: **Cloud Computing, AI, TypeScript, ASP.NET, React Native**
+- 🤝 Open to collaborating on Open Source, Freelance, and SaaS projects
+- 🧠 Constantly exploring new technologies and building passion projects
+- ✍️ I love to read, write, and share knowledge with the community
 
 ---
+
+## 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,azure,aws,dotnet,github,git,figma,vscode" />
+</p>
+
 ---
 
-[website]: https://iswaqasahmedsurge.sh
-[twitter]: https://twitter.com/amwaqasahmed
-[youtube]: https://www.youtube.com/channel/UCwrhYGsnrA5o-fqPIzRo_GA
-[instagram]: https://instagram.com/amwaqasahmed
-[linkedin]: https://www.linkedin.com/in/waqas-ahmed-1a8b24162/
+## 🎧 Spotify - Currently Listening
 
-[vscode]:https://code.visualstudio.com/docs
-[html]:https://devdocs.io/html/
-[css]:https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
-[javascript]:https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[react]:https://reactjs.org/docs/getting-started.html
-[nodejs]:https://nodejs.org/en/docs/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[mysql]:https://dev.mysql.com/doc/
-[mongodb]:https://docs.mongodb.com/
-[git]:https://git-scm.com/doc
-[github]:https://docs.github.com/en---
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
+---
+
+## 🔗 Connect With Me
+
+<p>
+  <a href="https://iswaqasahmed.surge.sh/"><img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/waqas-ahmed-1a8b24162/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/amwaqasahmed"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/amwaqasahmed"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCwrhYGsnrA5o-fqPIzRo_GA"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isWaqasAhmed&show_icons=true&theme=tokyonight&hide_border=true" alt="Waqas' GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=isWaqasAhmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isWaqasAhmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Latest Projects
+
+- 🔥 **Solar Estimator App** — A React-based solar calculator with dark mode and multilingual support.
+- ⚡ **204 EDI Automation** — Automated load tender processing system in .NET & SQL.
+- 🧠 **AI RAG System** — Retrieval-Augmented Generation (RAG) implementation in ASP.NET.
+
+---
+
+## ✨ Fun Fact
+
+> "I love debugging more than coding itself. Because that’s where the magic of understanding happens."
+
+---
+
+## 📫 Want to chat or collaborate?
+
+> Drop me a message on [LinkedIn](https://linkedin.com/in/waqas-ahmed-1a8b24162) or [Twitter](https://twitter.com/amwaqasahmed) — Let's build something awesome together! 🚀
+
+---
+
+<p align="center">⭐️ If you like what I do, give me a star on <a href="https://github.com/isWaqasAhmed">GitHub</a>!</p>
